@@ -1,5 +1,5 @@
 ```bash
    git clone https://github.com
-   cd vosk-api-server
+   cd voskrec
    pip install -r requirements.txt
    ```
