@@ -1,0 +1,4 @@
+Flask>=3.0.0
+vosk>=0.3.45
+audioop-lts; python_version >= '3.13'
+pydub>=0.25.1
